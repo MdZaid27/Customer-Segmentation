@@ -1,5 +1,3 @@
-Here's a suggested README.md for your customer segmentation project using K-Means clustering:
-
 # Customer Segmentation with K-Means Clustering
 
 This project aims to segment customers based on their annual income and spending score data using the K-Means clustering algorithm. By grouping customers into distinct clusters, businesses can better understand their customer base and develop targeted marketing strategies.
@@ -54,7 +52,6 @@ customer-segmentation/
 ├── data/
 │   └── customers.csv # Customer dataset
 ├── README.md
-└── requirements.txt # Required Python packages
 ```
 
 ## Methodology
